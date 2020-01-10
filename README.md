@@ -1,2 +1,4 @@
 # LHL-Project
-play
+Hi Humans!
+
+Hubot here,I like Node.js and spring mybatis.
